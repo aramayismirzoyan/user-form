@@ -1,6 +1,5 @@
 <?php
 
-use App\UserController;
 use Providers\RouteProviders;
 
 require './vendor/autoload.php';
